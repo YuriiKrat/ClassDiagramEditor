@@ -1,3 +1,0 @@
-interface  {
-	protected int age();
-}
